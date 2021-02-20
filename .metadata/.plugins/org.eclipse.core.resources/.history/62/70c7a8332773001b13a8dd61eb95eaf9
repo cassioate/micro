@@ -1,0 +1,9 @@
+package br.com.tessaro.microservice.loja.model.dto;
+
+public class EnderecoDTO {
+
+	private String rua;
+	private Integer numero;
+	private String estado;
+	
+}

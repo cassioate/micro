@@ -1,0 +1,15 @@
+package com.tessaro.moneyapi.repository;
+
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+
+import com.tessaro.moneyapi.model.Pessoa;
+
+public interface PessoaRepository extends JpaRepository<Pessoa, Long>{
+
+//	@Query("select p from Pessoa p where p.nome like %:nome%")
+	Page<Pessoa> findByNomeContaining(String nome, Pageable pageable);
+
+}

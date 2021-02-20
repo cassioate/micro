@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.tessaro.sistema.model.dto.PessoaDTO"/>
+    <fullyQualifiedTypeName name="com.tessaro.sistema.model.dto.CasamentoDTO"/>
+    <fullyQualifiedTypeName name="com.tessaro.sistema.service.mapper.CasamentoMapper"/>
+    <fullyQualifiedTypeName name="com.sun.el.stream.Optional"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.tessaro.sistema.service.mapper.PessoaMapper"/>
+    <fullyQualifiedTypeName name="com.tessaro.sistema.exceptionhandler.exceptions.NaoExisteNaBaseException"/>
+    <fullyQualifiedTypeName name="com.tessaro.sistema.util.PessoaUtils"/>
+    <fullyQualifiedTypeName name="com.tessaro.sistema.exceptionhandler.exceptions.JaPossuiCasamentoException"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.tessaro.sistema.util.CpfUtil"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.tessaro.moneyapi.model.dto.LancamentoDTO"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotBlank"/>
+    <fullyQualifiedTypeName name="javax.persistence.Embedded"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.hibernate.validator.constraints.NotBlank"/>
+    <fullyQualifiedTypeName name="com.sun.istack.NotNull"/>
+    <fullyQualifiedTypeName name="javax.validation.Valid"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileSystemException"/>
+</qualifiedTypeNameHistroy>

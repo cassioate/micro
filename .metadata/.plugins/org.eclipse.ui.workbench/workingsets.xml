@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611452807740_3" label="Stefanini" name="Stefanini">
+<item elementID="=gerenciamento" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611452843574_4" label="AlgaWorks" name="AlgaWorks">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/money-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/algamoney-api" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611452854192_5" label="Zup" name="Zup">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Loteria" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611452866086_6" label="Projetos Pessoais" name="Projetos Pessoais">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sistema" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611455106418_6" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611455106431_7" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1613788902060_9" label="MicroServices" name="MicroServices">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/loja" type="4"/>
+<item elementID="=loja" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fornecedor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611452661034_2" label="Window Working Set" name="Aggregate for window 1611452661034"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1612776080221_10" label="Multiple Working Sets" name="Aggregate:AlgaWorks:Projetos Pessoais:Stefanini:Zup:">
+<workingSet IMemento.internal.id="AlgaWorks"/>
+<workingSet IMemento.internal.id="Projetos Pessoais"/>
+<workingSet IMemento.internal.id="Stefanini"/>
+<workingSet IMemento.internal.id="Zup"/>
+</workingSet>
+<mruList name="MicroServices"/>
+<mruList name="Stefanini"/>
+</workingSetManager>

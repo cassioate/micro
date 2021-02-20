@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+spring:  datasource:    url: jdbc:postgresql://localhost:5433/fornecedor-micro
+	username: postgres
+	password: kaka18
+  jpa:    hibernate:      ddl-auto: create
+	show-sql: true
